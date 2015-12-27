@@ -16,3 +16,4 @@ You should create one R script called run_analysis.R that does the following.
   2. run: *source("run_analysis.R")*
   3. run: *run_analysis()*
   4. the script will create a file named *"tidydataset_averages.txt"* with the averages of each measurement per subject and activity
+- Obs: in order to import the file to R you should run *read.table(file="tidydataset_averages.txt",header = TRUE)*
