@@ -10,17 +10,15 @@ This Code Book refers to the data generated in the run_analysis script rather th
 ---
 ## Mean Calculated variables (66 variables)
 The script remove all original variables but those having mean() and std() as requested. Angle() variables are also removed.
-The remaining variables are then averaged by the Subject and Activity key variables and follows:
+The remaining variables are then averaged by the Subject and Activity key variables and follows:  
 
-Mean-Time-BodyAcceleration-Mean-X
-
-Mean-Time-BodyAcceleration-Mean-Y
-
-Mean-Time-BodyAcceleration-Mean-Z
-Mean-Time-BodyAcceleration-StandardDeviation-X
-Mean-Time-BodyAcceleration-StandardDeviation-Y
-Mean-Time-BodyAcceleration-StandardDeviation-Z
-Mean-Time-GravityAcceleration-Mean-X
+Mean-Time-BodyAcceleration-Mean-X  
+Mean-Time-BodyAcceleration-Mean-Y  
+Mean-Time-BodyAcceleration-Mean-Z  
+Mean-Time-BodyAcceleration-StandardDeviation-X  
+Mean-Time-BodyAcceleration-StandardDeviation-Y  
+Mean-Time-BodyAcceleration-StandardDeviation-Z  
+Mean-Time-GravityAcceleration-Mean-X  
 Mean-Time-GravityAcceleration-Mean-Y
 Mean-Time-GravityAcceleration-Mean-Z
 Mean-Time-GravityAcceleration-StandardDeviation-X
