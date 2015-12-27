@@ -11,7 +11,7 @@ This Code Book refers to the tidy data generated in the run_analysis script.
 ## Mean Calculated variables (66 variables)
 The script keeps and renames the variables originally calculated by mean() and std() as requested. Angle() variables are also removed.
 The remaining variables are then averaged by the Subject and Activity key variables and are floating point numbers.  
-The following table refers to the renaming process used in the script:
+The following table refers to the renaming process used in the script:  
 | Old String | New String |
 | ---------- | ---------- |
 | heading t | Time- |
