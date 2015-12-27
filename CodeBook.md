@@ -12,17 +12,17 @@ This Code Book refers to the tidy data generated in the run_analysis script.
 The script keeps and renames the variables originally calculated by mean() and std() as requested. Angle() variables are also removed.
 The remaining variables are then averaged by the Subject and Activity key variables and are floating point numbers.  
 The following table refers to the renaming process used in the script:
-|Old String|New String|
-|----------|----------|
-|heading t|Time-|
-|tBody|Time-Body|
-|heading f|Frequency-|
-|mean|Mean|
-|std|StandardDeviation|
-|Acc|Acceleration|
-|Mag|Magnitude|
-|Gyro|Gyroscope|
-|()| \\*\\*REMOVED\\*\\* |  
+| Old String | New String |
+| ---------- | ---------- |
+| heading t | Time- |
+| tBody | Time-Body |
+| heading f | Frequency- |
+| mean | Mean |
+| std | StandardDeviation |
+| Acc | Acceleration |
+| Mag | Magnitude |
+| Gyro | Gyroscope |
+| () | \\*\\*REMOVED\\*\\* |  
 
 List of the calculated variables:  
 
