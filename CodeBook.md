@@ -23,6 +23,7 @@ The following table refers to the renaming process used in the script:
 | Acc | Acceleration |
 | Mag | Magnitude |
 | Gyro | Gyroscope |
+| () | \\* REMOVED \\* |
 
 
 List of the calculated variables:  
